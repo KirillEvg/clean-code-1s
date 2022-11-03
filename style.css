@@ -74,7 +74,7 @@ button{
 }
   
 /* Heading */
-h3,
+.section-name,
 .add-title {
   color: #333;
   font-weight: 700;
